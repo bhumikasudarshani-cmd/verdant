@@ -1,4 +1,4 @@
-# 🌿 Verdant
+#  Verdant
 
 A local-AI quest master that gets you off the screen: finish an outdoor quest, get a verified voucher, and sponsors ship you a medal or swag.
 
