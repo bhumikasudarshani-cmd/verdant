@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "title": "Foliage Stroll",
+    "kind": "walk",
+    "km": 3,
+    "photo": "autumn leaves",
+    "tier": "bronze"
+  },
+  {
+    "id": "q2",
+    "title": "Park Run 5K",
+    "kind": "run",
+    "km": 5,
+    "photo": "",
+    "tier": "silver"
+  },
+  {
+    "id": "q3",
+    "title": "Plog the Path",
+    "kind": "walk",
+    "km": 4,
+    "photo": "a bag of collected litter",
+    "tier": "gold"
+  }
+]

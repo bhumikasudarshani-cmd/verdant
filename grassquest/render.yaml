@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: verdant-sponsor
+    runtime: python
+    plan: free
+    buildCommand: echo "no dependencies"
+    startCommand: python sponsor_server.py
+    envVars:
+      - key: VERDANT_SECRET
+        sync: false   # you enter this value in the Render dashboard
